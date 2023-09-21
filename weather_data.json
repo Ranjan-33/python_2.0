@@ -1,0 +1,16 @@
+{
+    
+    "weather": [
+        {
+            
+            "description": "clear sky"
+           
+        }
+    ],
+    
+    "main": {
+        "temp": 15.45,
+        "humidity": 64,
+        "city":"Bangalore"
+    }
+}
